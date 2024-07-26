@@ -35,5 +35,10 @@
     <version>5.2.5</version>
 </dependency>
 
+  	<dependency>
+  		<groupId>com.lum</groupId>
+  		<artifactId>Ebay_Project</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
   </dependencies>
 </project>
